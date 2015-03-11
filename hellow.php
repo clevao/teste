@@ -1,5 +1,5 @@
 <?php
 
-	echo 'Hellow Git';
+	echo 'Hellow Git by windows';
 
 ?>
